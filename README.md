@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ A Computer Science graduate passionate about software development.<br><br>🎓 BSc General Graduate from the University of Peradeniya (2025).<br><br>💻 Interested in building scalable and user-friendly web applications.<br><br>🚀 Currently developing Printoura, a full-stack printing and product ordering platform.<br><br>🌱 Continuously learning React, TypeScript, Node.js, Express.js and PostgreSQL.<br><br>🎯 Goal: Become a skilled Software Engineer and build impactful software solutions.</p>
+<p data-importer="text" align="left">✨ A Computer Science graduate passionate about software development.<br>🎓 BSc General Graduate from the University of Peradeniya (2025).<br>💻 Interested in building scalable and user-friendly web applications.<br>🚀 Currently developing Printoura, a full-stack printing and product ordering platform.<br>🌱 Continuously learning React, TypeScript, Node.js, Express.js and PostgreSQL.<br>🎯 Goal: Become a skilled Software Engineer and build impactful software solutions.</p>
 
 ###
 

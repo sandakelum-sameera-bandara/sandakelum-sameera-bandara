@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">Hi 👋 I'm Sandakelum Sameera Bandara?</h1>
+<h1 data-importer="text" align="left">Hi 👋 I'm Sandakelum Sameera Bandara</h1>
 
 ###
 
